@@ -88,7 +88,7 @@
      //下面与上面的都相同了
      ```
 
-     - C3P0xml配置实例
+     - C3P0xml配置实例**（必须放置在src目录下）**
 
        ```xml
        <?xml version="1.0"encoding="UTF-8"?>
